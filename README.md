@@ -2,8 +2,7 @@
 # to-do-app
 A quick and easy to-do-app. able to list all the things you need to do in a day and mark them as complete.
 
-
-https://img.shields.io/badge/<to-do-app>-<complete-all-your-tasks!>-<orange>
+https://img.shields.io/badge/to--do--app-complete%20all%20your%20tasks!-brightgreen
 ## Usage
 
 with a click of a mouse, input your tasks into the bar and once everything is marked down, click the delete button to remove items
